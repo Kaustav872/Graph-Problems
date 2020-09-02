@@ -1,7 +1,7 @@
 /* including the header files . You can directly include the stl lib but then the code does not becomes
    available to tranfer and run on other versions of the compiler also every time we compile the code it
    becomes too heavy for the compiler to preprocess each and every files so I think its better not to include
-   the whole package instead only include the relevant ones and move forward
+   the whole package instead only include the relevant ones and move forwardd
 */
 #include<iostream>
 #include<list>
